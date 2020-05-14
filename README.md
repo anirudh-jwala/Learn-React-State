@@ -2,8 +2,6 @@
 
 I have developed this application as a part of my [Blog Post](https://www.linkedin.com/pulse/react-state-beginners-anirudh-jwala/) 👨🏻‍💻
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
